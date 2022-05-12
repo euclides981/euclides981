@@ -21,6 +21,6 @@
 ___
 
 
-📌
+
 
 <img src="https://komarev.com/ghpvc/?username=euclides981&color=yellow" alt="Profile views"/> <a href="https://github.com/euclides981?tab=followers"><img src="https://img.shields.io/github/followers/euclides981?label=Followers&style=social" alt="GitHub Badge"></a>
