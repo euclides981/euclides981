@@ -24,4 +24,4 @@ ___
 
 ___
 
-### 📧 euclides981@gmail.com
+## ✉ Contato [![GMAIL](https://img.shields.io/badge/-gmail-fff?style=flat&logo=gmail)](mailto:euclides981@gmail.com)&nbsp;[![Discord](https://img.shields.io/badge/-Discord-fff?style=flat&logo=discord)](https://discordapp.com/users/euclides981)&nbsp;[![Telegram](https://img.shields.io/badge/-Telegram-fff?style=flat&logo=telegram)](https://t.me/euclides981)
