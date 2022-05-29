@@ -1,6 +1,6 @@
 ### Olá. Meu Nome é Euclides.
 #### Venho da Área Técnica de Redes de Telecomunicações, Onde Atuei por Quase 10 Anos.
-#### Coordenava e Executava Projetos de Implantação de Redes de Fibra Optica.
+#### Atuei Coordenando e Executando Projetos de Implantação de Redes de Fibra Optica.
 #### Estou Migrando de Carreira e Encontrei na Programação o Desafio que Procurava.
 
 # 🖖🏻
@@ -19,7 +19,8 @@
 
 ___
 
-
-
-
 <img src="https://komarev.com/ghpvc/?username=euclides981&color=yellow" alt="Profile views"/> <a href="https://github.com/euclides981?tab=followers"><img src="https://img.shields.io/github/followers/euclides981?label=Followers&style=social" alt="GitHub Badge"></a>
+
+___
+
+## ✉ Contato [![GMAIL](https://img.shields.io/badge/-gmail-fff?style=flat&logo=gmail)](mailto:euclides981@gmail.com)&nbsp;[![Discord](https://img.shields.io/badge/-Discord-fff?style=flat&logo=discord)](https://discordapp.com/users/euclides981)&nbsp;[![Telegram](https://img.shields.io/badge/-Telegram-fff?style=flat&logo=telegram)](https://t.me/euclides981)
