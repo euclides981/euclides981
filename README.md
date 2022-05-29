@@ -1,6 +1,6 @@
 ### Olá. Meu Nome é Euclides. 
 #### Venho da Área Técnica de Redes de Telecomunicações, Onde Atuei por Quase 10 Anos.
-#### Coordenava e Executava Projetos de Implantação de Redes de Fibra Optica.
+#### Atuei Coordenando e Executando Projetos de Implantação de Redes de Fibra Optica.
 #### Estou Migrando de Carreira e Encontrei na Programação o Desafio que Procurava.
 
 # 🖖🏻
