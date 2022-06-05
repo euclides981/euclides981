@@ -1,11 +1,13 @@
 # Olá. Meu Nome é Euclides
 
-Venho da Área Técnica de Redes de Telecomunicações, Onde Atuei por Quase 10 Anos  
-Atuei Coordenando e Executando Projetos de Implantação de Redes de Fibra Optica  
+Venho da Área Técnica de Redes de Telecomunicações, Onde Atuei por Quase 10 Anos.  
+Atuei Coordenando e Executando Projetos de Implantação de Redes de Fibra Optica.  
 Estou Migrando de Carreira e Encontrei na Programação o Desafio que Procurava  
 🖖🏻
 
-![euclides981 - GitHub stats](https://github-readme-stats.vercel.app/api/?username=euclides981&hide=prs,issues&count_private=true&show_icons=true&theme=gotham)
+![euclides981 - GitHub stats](https://github-readme-stats.vercel.app/api?username=euclides981&hide=prs,issues&count_private=true&show_icons=true&theme=gotham)
+
+___
 
 ## 🛠 &nbsp; Tecs das quais tenho trabalhado nos últimos meses
 
