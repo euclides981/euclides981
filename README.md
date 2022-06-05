@@ -16,10 +16,16 @@ Estou Migrando de Carreira e Encontrei na Programação o Desafio que Procurava
 ![GitHub](https://img.shields.io/badge/-GitHub-ccc?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-ccc?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Inkscape](https://img.shields.io/badge/-Inkscape-ccc?style=flat&logo=inkscape&logoColor=000)&nbsp;
+
 ___
 
-<img src=img/badge_one.png width="150">&nbsp;&nbsp;<img src=img/one.png width="200">&nbsp;&nbsp;<img src=img/badge_js.png width="150">&nbsp;&nbsp;<img src=img/hack.svg width="200">
+## 🛡 Badges
 
----
+![BADGE GIT](https://raw.githubusercontent.com/euclides981/euclides981/main/badges/img/git.png)
+![BADGE ONE](https://raw.githubusercontent.com/euclides981/euclides981/main/badges/img/one.png)
+![BADGE JS](https://raw.githubusercontent.com/euclides981/euclides981/main/badges/img/js.png)
+![BADGE HACK](https://raw.githubusercontent.com/euclides981/euclides981/main/badges/img/hack.svg)
 
-## ✉ Contato [![GMAIL](https://img.shields.io/badge/-gmail-fff?style=flat&logo=gmail)](mailto:euclides981@gmail.com)&nbsp;[![Discord](https://img.shields.io/badge/-Discord-fff?style=flat&logo=discord)](https://discordapp.com/users/euclides981)&nbsp;[![Telegram](https://img.shields.io/badge/-Telegram-fff?style=flat&logo=telegram)](https://t.me/euclides981)
+___
+
+## </br> ✉ Contato [![GMAIL](https://img.shields.io/badge/-gmail-fff?style=flat&logo=gmail)](mailto:euclides981@gmail.com)&nbsp;[![Discord](https://img.shields.io/badge/-Discord-fff?style=flat&logo=discord)](https://discordapp.com/users/euclides981)&nbsp;[![Telegram](https://img.shields.io/badge/-Telegram-fff?style=flat&logo=telegram)](https://t.me/euclides981)
