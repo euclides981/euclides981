@@ -18,7 +18,7 @@ Estou Migrando de Carreira e Encontrei na Programação o Desafio que Procurava
 ![Inkscape](https://img.shields.io/badge/-Inkscape-ccc?style=flat&logo=inkscape&logoColor=000)&nbsp;
 ___
 
-<img src=img/badge_one.png width="150">&nbsp;&nbsp;<img src=img/one.png width="200">&nbsp;&nbsp;<img src=img/badge_js.png width="150">&nbsp;&nbsp;<img src=img/hack.png width="200">
+<img src=img/badge_one.png width="150">&nbsp;&nbsp;<img src=img/one.png width="200">&nbsp;&nbsp;<img src=img/badge_js.png width="150">&nbsp;&nbsp;<img src=img/hack.svg width="200">
 
 ---
 
