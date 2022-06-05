@@ -21,11 +21,11 @@ ___
 
 ## 🛡 Badges
 
-![BADGE GIT](https://raw.githubusercontent.com/euclides981/euclides981/main/badges/img/git.png)
-![BADGE ONE](https://raw.githubusercontent.com/euclides981/euclides981/main/badges/img/one.png)
-![BADGE JS](https://raw.githubusercontent.com/euclides981/euclides981/main/badges/img/js.png)
-![BADGE HACK](https://raw.githubusercontent.com/euclides981/euclides981/main/badges/img/hack.svg)
+![BADGE GIT](https://euclides981.github.io/euclides981/img/badges/git.png)
+![BADGE ONE](https://euclides981.github.io/euclides981/img/badges/one.png)
+![BADGE JS](https://euclides981.github.io/euclides981/img/badges/js.png)
+![BADGE HACK](https://euclides981.github.io/euclides981/img/badges/hack.svg)
 
 ___
 
-## </br> ✉ Contato [![GMAIL](https://img.shields.io/badge/-gmail-fff?style=flat&logo=gmail)](mailto:euclides981@gmail.com)&nbsp;[![Discord](https://img.shields.io/badge/-Discord-fff?style=flat&logo=discord)](https://discordapp.com/users/euclides981)&nbsp;[![Telegram](https://img.shields.io/badge/-Telegram-fff?style=flat&logo=telegram)](https://t.me/euclides981)
+## ✉ Contato [![GMAIL](https://img.shields.io/badge/-gmail-fff?style=flat&logo=gmail)](mailto:euclides981@gmail.com)&nbsp;[![Discord](https://img.shields.io/badge/-Discord-fff?style=flat&logo=discord)](https://discordapp.com/users/euclides981)&nbsp;[![Telegram](https://img.shields.io/badge/-Telegram-fff?style=flat&logo=telegram)](https://t.me/euclides981)
