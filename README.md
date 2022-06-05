@@ -17,6 +17,7 @@ Estou Migrando de Carreira e Encontrei na Programação o Desafio que Procurava
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-ccc?style=flat&logo=visual-studio-code&logoColor=blue)&nbsp;
 ![Inkscape](https://img.shields.io/badge/-Inkscape-ccc?style=flat&logo=inkscape&logoColor=000)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-ccc?style=flat&logo=bootstrap&logoColor=blue)&nbsp;
+
 ___
 
 ## Alguns Projetos Realizados Neste Período de Aprendizado
@@ -24,6 +25,7 @@ ___
 [Projeto Criptografia](https://euclides981.github.io/criptografia/)  
 [Projeto Jogo da Forca](https://euclides981.github.io/jogo-da-forca/)  
 [Projeto Biscoito da Sorte](https://euclides981.github.io/biscoito-da-sorte/)  
+
 ___
 
 ## 🛡 Badges
@@ -32,6 +34,7 @@ ___
 ![BADGE ONE](https://euclides981.github.io/euclides981/img/badges/one.png)
 ![BADGE JS](https://euclides981.github.io/euclides981/img/badges/js.png)
 ![BADGE HACK](https://euclides981.github.io/euclides981/img/badges/hack.svg)
+
 ___
 
 ## ✉ Contato [![GMAIL](https://img.shields.io/badge/-gmail-fff?style=flat&logo=gmail)](mailto:euclides981@gmail.com)&nbsp;[![Discord](https://img.shields.io/badge/-Discord-fff?style=flat&logo=discord)](https://discordapp.com/users/euclides981)&nbsp;[![Telegram](https://img.shields.io/badge/-Telegram-fff?style=flat&logo=telegram)](https://t.me/euclides981)
