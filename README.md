@@ -8,7 +8,7 @@ ___
 
 ## 📌 GitHub Status
 
-![euclides981 - GitHub stats](https://github-readme-stats.vercel.app/api?username=euclides981&hide=prs,issues&count_private=true&show_icons=true&theme=gotham)
+![euclides981 - GitHub stats](https://github-readme-stats.vercel.app/api?username=euclides981&count_private=true&hide=prs,contribs&show_icons=true&theme=gotham)
 
 ___
 
