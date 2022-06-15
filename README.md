@@ -27,9 +27,11 @@ ___
 
 ## 🧱 Alguns Projetos Realizados Neste Período de Aprendizado
 
-- [Projeto Criptografia](https://euclides981.github.io/criptografia/)  
-- [Projeto Jogo da Forca](https://euclides981.github.io/jogo-da-forca/)  
-- [Projeto Biscoito da Sorte](https://euclides981.github.io/biscoito-da-sorte/)  
+- [Criptografia](https://euclides981.github.io/criptografia/)  
+- [Jogo da Forca](https://euclides981.github.io/jogo-da-forca/)  
+- [Biscoito da Sorte](https://euclides981.github.io/biscoito-da-sorte/)  
+- [Hora Certa](https://euclides981.github.io/hora-certa/)  
+- [Calculadora](https://euclides981.github.io/calculadora/)  
 
 ___
 
