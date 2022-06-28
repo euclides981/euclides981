@@ -40,7 +40,8 @@ ___
 ![BADGE GIT](https://euclides981.github.io/euclides981/img/badges/git.png)
 ![BADGE ONE](https://euclides981.github.io/euclides981/img/badges/one.png)
 ![BADGE JS](https://euclides981.github.io/euclides981/img/badges/js.png)
-![BADGE HACK](https://euclides981.github.io/euclides981/img/badges/hack.svg)
+![BADGE HACK](https://euclides981.github.io/euclides981/img/badges/hack.png)
+![BADGE HACK](https://euclides981.github.io/euclides981/img/badges/badge-projeto-portifolio.png)
 
 ___
 
