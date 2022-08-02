@@ -22,6 +22,7 @@ ___
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-ccc?style=flat&logo=visual-studio-code&logoColor=blue)&nbsp;
 ![Inkscape](https://img.shields.io/badge/-Inkscape-ccc?style=flat&logo=inkscape&logoColor=000)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-ccc?style=flat&logo=bootstrap&logoColor=blue)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-ccc?style=flat&logo=node.js&logoColor=gren)&nbsp;
 
 ___
 
