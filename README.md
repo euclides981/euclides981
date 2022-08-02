@@ -27,11 +27,12 @@ ___
 
 ## 🧱 Alguns Projetos Realizados Neste Período de Aprendizado
 
-- [Criptografia](https://euclides981.github.io/criptografia/)  
+- [Alura Geek](https://euclides981.github.io/geek/)  
 - [Jogo da Forca](https://euclides981.github.io/jogo-da-forca/)  
 - [Biscoito da Sorte](https://euclides981.github.io/biscoito-da-sorte/)  
 - [Hora Certa](https://euclides981.github.io/hora-certa/)  
 - [Calculadora](https://euclides981.github.io/calculadora/)  
+- [Criptografia](https://euclides981.github.io/criptografia/)  
 
 ___
 
@@ -41,7 +42,8 @@ ___
 ![BADGE ONE](https://euclides981.github.io/euclides981/img/badges/one.png)
 ![BADGE JS](https://euclides981.github.io/euclides981/img/badges/js.png)
 ![BADGE HACK](https://euclides981.github.io/euclides981/img/badges/hack.png)
-![BADGE HACK](https://euclides981.github.io/euclides981/img/badges/badge-projeto-portifolio.png)
+![BADGE PORTIFÓLIO](https://euclides981.github.io/euclides981/img/badges/badge-projeto-portifolio.png)
+![BADGE ALURA GEEK](https://euclides981.github.io/euclides981/img/badges/tres.png)
 
 ___
 
