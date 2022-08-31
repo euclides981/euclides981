@@ -39,12 +39,14 @@ ___
 
 ## 🛡 Badges
 
+<!-- [![BADGE GIT](https://euclides981.github.io/euclides981/img/badges/git.png)](https://euclides981.github.io/euclides981/) -->
 ![BADGE GIT](https://euclides981.github.io/euclides981/img/badges/git.png)
 ![BADGE ONE](https://euclides981.github.io/euclides981/img/badges/one.png)
 ![BADGE JS](https://euclides981.github.io/euclides981/img/badges/js.png)
 ![BADGE HACK](https://euclides981.github.io/euclides981/img/badges/hack.png)
 ![BADGE PORTIFÓLIO](https://euclides981.github.io/euclides981/img/badges/badge-projeto-portifolio.png)
 ![BADGE ALURA GEEK](https://euclides981.github.io/euclides981/img/badges/tres.png)
+![BADGE JAVA](https://euclides981.github.io/euclides981/img/badges/java.png)
 
 ___
 
