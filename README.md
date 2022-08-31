@@ -23,11 +23,14 @@ ___
 ![Inkscape](https://img.shields.io/badge/-Inkscape-ccc?style=flat&logo=inkscape&logoColor=000)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-ccc?style=flat&logo=bootstrap&logoColor=blue)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-ccc?style=flat&logo=node.js&logoColor=gren)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-ccc?style=flat&logo=eclipse&logoColor=blue)&nbsp;
+![JAVA](https://img.shields.io/badge/-JAVA-ccc?style=flat&logo=Jameson&logoColor=red)&nbsp;
 
 ___
 
 ## 🧱 Alguns Projetos Realizados Neste Período de Aprendizado
 
+- [Conversor JAVA](https://github.com/euclides981/conversor)  
 - [Alura Geek](https://euclides981.github.io/geek/)  
 - [Jogo da Forca](https://euclides981.github.io/jogo-da-forca/)  
 - [Biscoito da Sorte](https://euclides981.github.io/biscoito-da-sorte/)  
