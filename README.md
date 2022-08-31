@@ -23,7 +23,6 @@ ___
 ![Inkscape](https://img.shields.io/badge/-Inkscape-ccc?style=flat&logo=inkscape&logoColor=000)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-ccc?style=flat&logo=bootstrap&logoColor=blue)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-ccc?style=flat&logo=node.js&logoColor=gren)&nbsp;
-![Eclipse](https://euclides981.github.io/img/logos/-git-ebebeb?style=flat&logo=eclipse&logoColor=blue)&nbsp;
 
 ___
 
