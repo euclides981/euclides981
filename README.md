@@ -25,11 +25,15 @@ ___
 ![Node.js](https://img.shields.io/badge/-Node.js-ccc?style=flat&logo=node.js&logoColor=gren)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-ccc?style=flat&logo=eclipse&logoColor=blue)&nbsp;
 ![JAVA](https://img.shields.io/badge/-JAVA-ccc?style=flat&logo=Jameson&logoColor=red)&nbsp;
+![Python](https://img.shields.io/badge/-python-ccc?style=flat&logo=python&logoColor=blue)&nbsp;
+![PyCharm](https://img.shields.io/badge/-PyCharm-ccc?style=flat&logo=PyCharm&logoColor=black)&nbsp;
 
 ___
 
 ## 🧱 Alguns Projetos Realizados Neste Período de Aprendizado
 
+- [Site básico Python com Flask](https://python-and-flask.herokuapp.com/)  
+- [Calculadora IMC Python](https://github.com/euclides981/calculadora-imc)  
 - [Conversor JAVA](https://github.com/euclides981/conversor)  
 - [Alura Geek](https://euclides981.github.io/geek/)  
 - [Jogo da Forca](https://euclides981.github.io/jogo-da-forca/)  
