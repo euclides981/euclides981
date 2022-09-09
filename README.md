@@ -26,14 +26,17 @@ ___
 ![Eclipse](https://img.shields.io/badge/-Eclipse-ccc?style=flat&logo=eclipse&logoColor=blue)&nbsp;
 ![JAVA](https://img.shields.io/badge/-JAVA-ccc?style=flat&logo=Jameson&logoColor=red)&nbsp;
 ![Python](https://img.shields.io/badge/-python-ccc?style=flat&logo=python&logoColor=blue)&nbsp;
-![PyCharm](https://img.shields.io/badge/-PyCharm-ccc?style=flat&logo=PyCharm&logoColor=black)&nbsp;
+![PyCharm](https://img.shields.io/badge/-PyCharm-ccc?style=flat&logo=PyCharm&logoColor=#21D78D)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-ccc?style=flat&logo=php&logoColor=bluedark)&nbsp;
+![Xammp](https://img.shields.io/badge/-Xampp-ccc?style=flat&logo=Xampp&logoColor=#FB7923)&nbsp;
 
 ___
 
 ## 🧱 Alguns Projetos Realizados Neste Período de Aprendizado
 
-- [Site básico Python com Flask](https://python-and-flask.herokuapp.com/)  
-- [Calculadora IMC Python](https://github.com/euclides981/calculadora-imc)  
+- [CRUD com PHP](https://euclides981.000webhostapp.com/)
+- [Python com Flask](https://python-and-flask.herokuapp.com/)
+- [Calc IMC Python](https://github.com/euclides981/calculadora-imc)  
 - [Conversor JAVA](https://github.com/euclides981/conversor)  
 - [Alura Geek](https://euclides981.github.io/geek/)  
 - [Jogo da Forca](https://euclides981.github.io/jogo-da-forca/)  
