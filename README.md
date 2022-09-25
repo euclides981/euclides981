@@ -19,16 +19,17 @@ ___
 ![JavaScript](https://img.shields.io/badge/-JavaScript-999?style=flat&logo=javascript)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-ccc?style=flat&logo=git&logoColor=red)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-ccc?style=flat&logo=github&logoColor=black)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-ccc?style=flat&logo=visual-studio-code&logoColor=blue)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-V%20S%20Code-ccc?style=flat&logo=visual-studio-code&logoColor=blue)&nbsp;
 ![Inkscape](https://img.shields.io/badge/-Inkscape-ccc?style=flat&logo=inkscape&logoColor=000)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-ccc?style=flat&logo=bootstrap&logoColor=blue)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-ccc?style=flat&logo=node.js&logoColor=gren)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-ccc?style=flat&logo=eclipse&logoColor=blue)&nbsp;
-![JAVA](https://img.shields.io/badge/-JAVA-ccc?style=flat&logo=Jameson&logoColor=red)&nbsp;
 ![Python](https://img.shields.io/badge/-python-ccc?style=flat&logo=python&logoColor=blue)&nbsp;
 ![PyCharm](https://img.shields.io/badge/-PyCharm-ccc?style=flat&logo=PyCharm&logoColor=#21D78D)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-ccc?style=flat&logo=php&logoColor=bluedark)&nbsp;
 ![Xammp](https://img.shields.io/badge/-Xampp-ccc?style=flat&logo=Xampp&logoColor=#FB7923)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-ccc?style=flat&logo=eclipse&logoColor=blue)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-ccc?style=flat&logo=intellijidea&logoColor=black)&nbsp;
+![JAVA](https://img.shields.io/badge/-JAVA-ccc?style=flat&logo=Jameson&logoColor=red)&nbsp;
 
 ___
 
