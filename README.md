@@ -35,6 +35,7 @@ ___
 
 ## 🧱 Alguns Projetos Realizados Neste Período de Aprendizado
 
+- [Hotel em JAVA](https://github.com/euclides981/hotel)
 - [CRUD com PHP](https://euclides981.000webhostapp.com/)
 - [Python com Flask](https://python-and-flask.herokuapp.com/)
 - [Calc IMC Python](https://github.com/euclides981/calculadora-imc)  
@@ -58,6 +59,7 @@ ___
 ![BADGE PORTIFÓLIO](https://euclides981.github.io/euclides981/img/badges/badge-projeto-portifolio.png)
 ![BADGE ALURA GEEK](https://euclides981.github.io/euclides981/img/badges/tres.png)
 ![BADGE JAVA](https://euclides981.github.io/euclides981/img/badges/java.png)
+![BADGE Hotel JAVA](https://euclides981.github.io/euclides981/img/badges/hotel.png)
 
 ___
 
