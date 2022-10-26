@@ -2,7 +2,7 @@
 
 Venho da Área Técnica de Redes de Telecomunicações, Onde Atuei por Quase 10 Anos.  
 Atuei Coordenando e Executando Projetos de Implantação de Redes de Fibra Optica.  
-Estou Migrando de Carreira e Encontrei na Programação o Desafio que Procurava.
+Migrando de Carreira...
 
 ___
 
@@ -30,11 +30,13 @@ ___
 ![Eclipse](https://img.shields.io/badge/-Eclipse-ccc?style=flat&logo=eclipse&logoColor=blue)&nbsp;
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-ccc?style=flat&logo=intellijidea&logoColor=black)&nbsp;
 ![JAVA](https://img.shields.io/badge/-JAVA-ccc?style=flat&logo=Jameson&logoColor=red)&nbsp;
+![C#](https://img.shields.io/badge/-CSharp-ccc?style=flat&logo=csharp&logoColor=purple)&nbsp;
 
 ___
 
 ## 🧱 Alguns Projetos Realizados Neste Período de Aprendizado
 
+- [Radar C#](https://github.com/euclides981/ConsoleRadar)
 - [Hotel em JAVA](https://github.com/euclides981/hotel)
 - [CRUD com PHP](https://euclides981.000webhostapp.com/)
 - [Python com Flask](https://python-and-flask.herokuapp.com/)
